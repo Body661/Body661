@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **HTML,CSS,JS,SASS**
 
-- 📫 How to reach me **abdelrahmanelhagrasy661@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
