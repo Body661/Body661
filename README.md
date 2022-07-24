@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Chat App**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://abdolrahmansaleh.netlify.app/](https://abdolrahmansaleh.netlify.app/)
 
