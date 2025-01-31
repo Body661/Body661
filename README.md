@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdolrahman El Hagrasy</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🔭 I’m currently working on **Business management system**
-
-- 🌱 I’m currently learning ****
-
-- 👨‍💻 All of my projects are available at [https://abdolrahmansaleh.me/](https://abdolrahmansaleh.me/)
-
 - 💬 Ask me about **Html | CSS | SASS | JavaScript | ReactJS | NodeJs | MongoDB | ExpressJS | NextJS | AWS | PHP | MySQL | Phalcon | Docker | Mongoose**
 
 ---
